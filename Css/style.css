@@ -123,10 +123,6 @@ section h2 span {
 	padding: 0 !important;
 }
 
-#sec02 header{
-	display: none;
-}
-
 #gallery li{
 	float: left;
 	width: calc(100%/3);
